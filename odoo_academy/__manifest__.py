@@ -2,7 +2,7 @@
 
 {
     
-    "name": "akkd ACADEMY",
+    "name": "odoo ACADEMY",
     
     'Summary': """This is an academy app to manage training""",
     
