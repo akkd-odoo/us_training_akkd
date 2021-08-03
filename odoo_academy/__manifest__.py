@@ -4,7 +4,7 @@
     
     "name": "odoo ACADEMY",
     
-    'Summary': """This is an academy app to manage training""",
+    'summary': """This is an academy app to manage training""",
     
     'description': """
     
